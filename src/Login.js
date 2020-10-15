@@ -21,7 +21,7 @@ const Login = () => {
         <ScrollView style={{flex: 1}} bounces={false}>
           <View style={{flex: 1}}>
             <Image
-              source={require('./assets/cart.png')}
+
               style={styles.logoStyle}
             />
 
